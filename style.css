@@ -1,0 +1,10 @@
+*{
+    margin: 50px;
+    padding:30px;
+
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    text-emphasis-color: red;
+}
